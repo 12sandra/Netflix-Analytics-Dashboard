@@ -81,6 +81,7 @@ The dataset contains information such as:
 **Sandra A S**
 Aspiring Data Scientist
 * LinkedIn: www.linkedin.com/in/sandra-as-
+* DashboardTableau Public website link: https://public.tableau.com/app/profile/sandra.a.s/viz/NETFLIXANALYTICSDASHBOARD_17681460964870/NETFLIXANALYTICS?publish=yes
 
 ---
 
