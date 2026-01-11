@@ -1,5 +1,5 @@
 # Netflix-Analytics-Dashboard
-# 🎬 Netflix Analytics Dashboard
+
 
 An interactive **Netflix Analytics Dashboard** that provides insights into Netflix’s catalog of Movies and TV Shows using visual analytics. This project explores content distribution by **country, year, genre, rating, and type**, helping users understand trends and patterns in Netflix data.
 
